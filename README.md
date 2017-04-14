@@ -1,6 +1,12 @@
 # CREATIVE CODE IMMERSIVE:<br> SPRING 2017 SESSION
 <br>
 
+## **INSTRUCTORS**
+* [Niki Selken](http://grayarea.org/community-entry/niki-selken/)
+* [Mark Hellar](http://grayarea.org/community-entry/mark-hellar/)
+* [Ray McClure](http://grayarea.org/community-entry/ray-mcclure/)
+* [Taurin Barrera](http://grayarea.org/community-entry/taurin-barrera/)
+
 ## **SCHEDULE**
 
 Session Dates: **April 11th - June 28th** <br>
