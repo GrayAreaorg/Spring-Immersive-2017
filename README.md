@@ -23,12 +23,12 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
  10 | Projection Mapping | Taurin Barrera | 3/21 | 3/23 | 3/25
  11 | Development Week | | 6/20	| 6/22	| 6/24
 
-**INSTALLATION:** Later On
-<br>
-**SHOWCASE:** 6/28 (7pm - 9pm)
 
-<br>
-## **MATERIALS**
+**SHOWCASE:** 
+Wednesday June 28th(7pm - 9pm).
+
+
+**MATERIALS**
 For Physical Computing the required materials will be:
 
 * [Arduino Starter Kit Pro Plus](http://www.oddwires.com/arduino-starter-kit-pro-plus/)
