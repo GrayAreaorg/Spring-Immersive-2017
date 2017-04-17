@@ -30,7 +30,7 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
  11 | Development Week | | 6/20	| 6/22	| 6/24
 
 
-**SHOWCASE:** 
+**SHOWCASE:**
 Wednesday June 28th(7pm - 9pm).
 
 
@@ -40,11 +40,10 @@ For Physical Computing the required materials will be:
 * [Arduino Starter Kit Pro Plus](http://www.oddwires.com/arduino-starter-kit-pro-plus/)
 * [HC-05 Bluetooth Transceiver Module](http://www.oddwires.com/hc-05-bluetooth-transceiver-module-rs232-ttl-master-slave-module/)
 * [ADXL345 Accelerometer](http://www.oddwires.com/adxl345-accelerometor/)
-* [Adafruit Feather HUZZAH with ESP826](https://www.adafruit.com/product/2821)
+* [Adafruit Feather HUZZAH with ESP826](http://www.oddwires.com/adafruit-2821-feather-huzzah-with-esp8266-wifi/)
 
 Note: https://www.oddwires.com/checkout.php will do free delivery for orders over $100.00, but upsp is also fast(1 day).
 
 Please contact Mark Hellar via Slack for any questions
 
 ## **STUDENT PAGES**
-
