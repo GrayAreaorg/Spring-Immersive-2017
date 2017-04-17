@@ -1,0 +1,143 @@
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+html, body {
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #232323;
+  opacity: 0;
+}
+
+html.wf-active body, html.wf-inactive body {
+  animation: fadein .5s;
+  opacity: 1
+}
+
+.inverse {
+  position: absolute;
+  pointer-events: none;
+  z-index: 100000;
+  color: white;
+  background: #232323;
+  background-image: linear-gradient(to bottom right,#232323, #454545);
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.split {
+  display: inline-block;
+  text-align: right;
+}
+
+h1 {
+  position: relative;
+}
+
+.split-pull {
+  position: relative;
+  left: 0px;
+}
+
+.main-split {
+  text-align: right;
+  padding: 0;
+}
+
+h2 {
+  margin-bottom: 60px;
+}
+
+.h3 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.h3 h3 {
+  display: inline-block;
+}
+
+ul.avatars {
+  display: inline-block;
+  list-style-type: none;
+  padding: 0;
+  vertical-align: middle;
+}
+
+ul.avatars li {
+  display: inline-block;
+}
+
+.avatar {
+  display: inline-block;
+  vertical-align: top;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: gray;
+  background-size: cover;
+  box-shadow: 2px 2px 4px rgba(0,0,0,.2);
+  overflow: hidden;
+  color: transparent;
+}
+
+.avatar:link, .avatar:visited, .avatar:hover, .avatar:active {
+  color: transparent;
+}
+
+.avatar--niki {
+  background-image: url('../images/niki-435x435.jpg');
+}
+
+.avatar--mark {
+  background-image: url('../images/mark-435x349.jpg');
+}
+
+.avatar--ray {
+  background-image: url('../images/ray-435x392.jpg');
+}
+
+.avatar--taurin {
+  background-image: url('../images/taurin-435x349.jpg');
+}
+
+.avatar--arduino {
+  background-image: url('../images/arduino.jpg');
+}
+
+.avatar--bluetooth {
+  background-image: url('../images/bluetooth.jpg');
+}
+
+.avatar--accelerometer {
+  background-image: url('../images/accelerometer.jpg');
+}
+
+.avatar--wifi {
+  background-image: url('../images/wifi.jpg');
+}
+
+#schedule {
+  margin-top: 60px;
+}
+
+.square {
+  padding: 20px;
+  background: #232323;
+  background-image: linear-gradient(to bottom right,#232323, #454545);
+  color: white;
+  margin: 15px 0;
+}
+
+.square h4:first-child, .square h5:first-child {
+  margin-top: 0;
+}
+
+.inverse .square {
+  background: white;
+  color: #232323;
+}
