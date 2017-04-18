@@ -105,6 +105,10 @@ ul.avatars li {
   background-image: url('../images/taurin-435x349.jpg');
 }
 
+.avatar--francis {
+  background-image: url('../images/francis.jpg');
+}
+
 .avatar--arduino {
   background-image: url('../images/arduino.jpg');
 }
@@ -140,4 +144,28 @@ ul.avatars li {
 .inverse .square {
   background: white;
   color: #232323;
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-size: 24px;
+    text-align: center;
+  }
+  h2 {
+    font-size: 18px;
+  }
+  h3 {
+    font-size: 16px;
+    padding: 0 15px;
+  }
+  h3 .split {
+    text-align: left;
+  }
+  ul.avatars {
+    display: block;
+    padding: 0 15px;
+  }
+  .square {
+    height: auto !important;
+  }
 }
