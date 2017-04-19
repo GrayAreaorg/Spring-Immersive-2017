@@ -31,4 +31,11 @@ $(document).ready(function() {
     }
     $window.mousemove(resizeInverse);
   }, 750);
+
+  $('.avatar').tooltip({
+    container: 'body',
+    title: function() {
+      return $(this).text();
+    }
+  });
 });

@@ -29,6 +29,10 @@ html.wf-active body, html.wf-inactive body {
   overflow: hidden;
 }
 
+.tooltip {
+  z-index: 100001;
+}
+
 .split {
   display: inline-block;
   text-align: right;
@@ -107,6 +111,18 @@ ul.avatars li {
 
 .avatar--francis {
   background-image: url('../images/francis.jpg');
+}
+
+.avatar--alexa {
+  background-image: url('../images/alexa.jpg');
+}
+
+.avatar--jessica {
+  background-image: url('../images/jessica.jpg');
+}
+
+.avatar--sylvia {
+  background-image: url('../images/sylvia.jpg');
 }
 
 .avatar--arduino {
