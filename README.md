@@ -21,17 +21,17 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
  2 | Javascript I | Niki Selken | 4/18 | 4/20 | 4/22
  3 | P5.js | Niki Selken | 4/25 | 4/27 | 4/29
  4 | Physical Computing I | Mark Hellar | 5/2 | 5/4 | 5/6
- 5 | Web Audio | Ray McClure | 2/14 | 2/16 | 2/18
- 6 | Physical Computing II | Mark Hellar | 2/21 | 2/23 | 2/25
- 7 | Node.js | Mark Hellar | 2/28 | 3/2 | 3/4
- 8 | A-frame | Ray McClure | 3/7 | 3/9 | 3/11
- 9 | Interactive Environments | Mark Hellar | 3/14 |  3/16 |  3/18
- 10 | Projection Mapping | Taurin Barrera | 3/21 | 3/23 | 3/25
+ 5 | Web Audio | Ray McClure | 5/9 | 5/11 | 5/13
+ 6 | Physical Computing II | Mark Hellar | 5/16 | 5/18 | 5/20
+ 7 | Node.js | Mark Hellar | 5/23 | 5/25 | 5/27
+ 8 | A-frame | Ray McClure | 5/30 | 6/1 | 6/3
+ 9 | Interactive Environments | Mark Hellar | 6/6 |  6/8 |  6/10
+ 10 | Projection Mapping | Taurin Barrera | 6/13 | 6/15 | 6/17
  11 | Development Week | | 6/20	| 6/22	| 6/24
 
 
 **SHOWCASE:**
-Wednesday June 28th(7pm - 9pm).
+Wednesday June 28th (7pm - 9pm).
 
 
 **MATERIALS**
